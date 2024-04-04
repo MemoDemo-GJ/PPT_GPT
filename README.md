@@ -27,13 +27,12 @@ https://github.com/parthgupta1208/PresentSmart/assets/114602309/dc8a0ded-af9f-4c
 
    - `pip install python-pptx`
    - `pip install openai`
-   - `pip install tkinter`
    - `pip install google_images_search`
 
 3. Setup a `.env` file as below:
    - OPENAI_KEY="user-value"
-   - GCS_DEVELOPER_KEY=user-value
-   - GCS_CX=user-value
+   - GCS_DEVELOPER_KEY="user-value"
+   - GCS_CX="user-value"
 
 ## Usage
 
